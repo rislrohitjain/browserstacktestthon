@@ -1,0 +1,41 @@
+# ==============================================================================
+# BrowserStack SDK Configuration (Cross-Browser & Cross-Device Matrix)
+# ==============================================================================
+
+# Credentials read securely from environment variables
+userName: ${BROWSERSTACK_USERNAME}
+accessKey: ${BROWSERSTACK_ACCESS_KEY}
+
+# Project & Build Metadata
+projectName: BrowserStack Testathon
+buildName: Build_v1.0
+
+# Platforms Matrix (Windows, macOS, Android, iOS)
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+
+  - os: OS X
+    osVersion: Sonoma
+    browserName: Safari
+    browserVersion: latest
+
+  - deviceName: Samsung Galaxy S23
+    osVersion: "13.0"
+    browserName: chrome
+
+  - deviceName: iPhone 15
+    osVersion: "17"
+    browserName: safari
+
+# Test Capabilities
+browserstackLocal: false
+buildIdentifier: "#${BUILD_NUMBER}"
+parallelsPerPlatform: 1
+
+# Debug & Observability
+networkLogs: true
+consoleLogs: info
+video: true
