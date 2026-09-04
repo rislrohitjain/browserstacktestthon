@@ -27,3 +27,5 @@ reports/*.pdf
 *.swo
 Thumbs.db
 Desktop.ini
+
+.vercel
