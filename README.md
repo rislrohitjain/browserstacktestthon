@@ -10,7 +10,7 @@ An end-to-end, production-ready, and high-performance automated testing framewor
 | :--- | :--- | :---: |
 | **1. Public GitHub Repository** | [`https://github.com/rislrohitjain/browserstacktestthon`](https://github.com/rislrohitjain/browserstacktestthon) | **LIVE** |
 | **2. Test Observability / Automate Public Dashboard** | [`View Public Build Dashboard`](https://automate.browserstack.com/dashboard/v2/public-build/aWN2YmVQdkJwNHA2c1lheVN5akhiaGlWdUZQSzZiMzBSaHk1emQ0YmxEUUZLMUVhaXBRc2hRWDk3dmlDeCtKRUcxK2J6b1hBZG55ZHJsTDRhQ3ZJaGc9PS0tUU11Ym4zYSs1RFQwOTFrR2d2dE9rQT09--9741f79df092a2ea3b2635cf0e2ad228916de3b1) | **LIVE** |
-| **3. Test Management Public Link (Step 1)** | `[Test Management Public Folder Link]` *(Generated in Test Management UI)* | Ready to Paste |
+| **3. Test Management Link (Step 1)** | [`https://test-management.browserstack.com/projects/4097569/folder/56569112/test-cases`](https://test-management.browserstack.com/projects/4097569/folder/56569112/test-cases) | **LIVE** |
 | **4. Comprehensive Test Plan Document** | [`TEST_CASES.md`](TEST_CASES.md) | **DOCUMENTED** |
 | **5. Cross-Platform SDK Configuration** | [`browserstack.yml`](browserstack.yml) | **CONFIGURED** |
 
