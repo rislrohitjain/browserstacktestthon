@@ -13,6 +13,7 @@ An end-to-end, production-ready, and high-performance automated testing framewor
 | **3. Test Management Link (Step 1)** | [`https://test-management.browserstack.com/projects/4097569/folder/56569112/test-cases`](https://test-management.browserstack.com/projects/4097569/folder/56569112/test-cases) | **LIVE** |
 | **4. Comprehensive Test Plan Document** | [`TEST_CASES.md`](TEST_CASES.md) | **DOCUMENTED** |
 | **5. Cross-Platform SDK Configuration** | [`browserstack.yml`](browserstack.yml) | **CONFIGURED** |
+| **6. Live Web Dashboard (Vercel)** | [`https://browserstacktestthon.vercel.app`](https://browserstacktestthon.vercel.app) | **LIVE** |
 
 ---
 
